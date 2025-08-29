@@ -38,7 +38,7 @@ This project analyzes recipe site traffic data and builds predictive models to u
 - **Models**: `glm` (logistic regression), `randomForest`
 - **Evaluation**: `pROC`
 
-## Results (Summary)
+## Results
 - Logistic regression provided a baseline model.
 - Random Forest achieved higher accuracy and AUC, and identified important predictors such as calories, protein, and category.
 - Visualizations and ROC curves highlight differences in model performance.
